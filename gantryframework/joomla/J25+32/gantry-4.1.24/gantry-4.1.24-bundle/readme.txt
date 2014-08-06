@@ -1,0 +1,1 @@
+The bundle includes the default Gantry template for Joomla 2.5 and 3.2 + Framework + Associated Plugins
