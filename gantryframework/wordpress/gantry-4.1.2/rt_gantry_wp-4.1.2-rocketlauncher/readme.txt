@@ -1,0 +1,1 @@
+This RocketLauncher is a complete package including latest WordPress + Gantry theme for WP + Framework for WP + Sample Data
