@@ -1,0 +1,1 @@
+This RocketLauncher is a complete package including latest Joomla 2.5 + Gantry template + Framework + Associated Plugins + Sample Data
