@@ -1,0 +1,1 @@
+This is the default Joomla 2.5 and 3.2 template for Gantry that is intended to be used as a basis for building your own templates
