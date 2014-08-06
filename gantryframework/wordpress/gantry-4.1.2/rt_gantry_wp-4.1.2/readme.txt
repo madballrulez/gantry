@@ -1,0 +1,1 @@
+This is the default WordPress theme for Gantry that is intended to be used as a basis for building your own themes
